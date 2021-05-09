@@ -18,7 +18,7 @@ var gap = -550;
 var pipe =[];
 pipe[0] = {
 				x:width,
-				y:0
+				y:700
 				
 				
 }
